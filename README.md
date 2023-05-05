@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hi, I'm José Ney, @jneyneto
+
+🔭 Atualmente trabalhando com Medicina Veterinária
+👯 Tenho interesse em javascript, HTML, CSS...
+🌱 Atualmente estou aprendendo javascript, HTML e CSS...
+📚 Estudante de desenvolvimento de software na Cubos Academy
+
 <!--
 **jneyneto/Jneyneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
