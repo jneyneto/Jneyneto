@@ -1,6 +1,4 @@
-### Hi there 👋
-
-- Hi, I'm José Ney, @jneyneto
+Olá, Sou o José Ney, @jneyneto
 
 - 🔭 Atualmente trabalhando com Medicina Veterinária 
 - 👯 Tenho interesse em javascript, HTML, CSS... 
