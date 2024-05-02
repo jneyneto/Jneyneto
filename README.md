@@ -8,6 +8,9 @@ Meu nome é José Ney da Silva Neto, mas pode me chamar de Ney. Sou **Desenvolve
 [![Linkedin](https://img.shields.io/badge/jneyneto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jneyneto/) 
 
 <a href="mailto:neyneto@live.com">
+  <img src="https://user-images.githubusercontent.com/74038190/216654124-2433fb55-4955-421e-9191-9cad876f08cf.gif" width="50px" />
+</a>
+<a href="mailto:neyneto@live.com">
   <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
 </a>
 
