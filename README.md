@@ -15,7 +15,7 @@ Meu nome é José Ney da Silva Neto, mas pode me chamar de Ney. Sou **Desenvolve
 </a>
 
 ### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,figma,nodejs,postgres)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,figma,nodejs,postgres)
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=jneyneto&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
