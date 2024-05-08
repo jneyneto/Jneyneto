@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=jneyneto&color=000000)
 
-Meu nome é José Ney da Silva Neto, mas pode me chamar de Ney. Sou **Desenvolvedor Web Full-Stack** desde 2022, atualmente trabalho como Freelancer Full-Stack.
+Meu nome é José Ney da Silva Neto, mas pode me chamar de Ney. Sou **Desenvolvedor Web Full-Stack** desde 2022, atualmente trabalho como Freelancer Full-Stack. 
 
 [![Instagram](https://img.shields.io/badge/jneyneto-E4605F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jneyneto/)
 [![Linkedin](https://img.shields.io/badge/jneyneto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jneyneto/) 
